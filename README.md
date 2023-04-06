@@ -12,7 +12,8 @@ Used CSS and HTML to create user-friendly and responsive design.
  
 https://rylawss.github.io/01-Accessibility/
 
-![image](https://user-images.githubusercontent.com/128633609/230267817-9c925676-da66-415c-8b12-f08d1070abe0.png)
+![site](https://user-images.githubusercontent.com/128633609/230512555-b00e6e33-e967-497c-98ed-9f3312af9c31.PNG)
+
 
 ## License
 
